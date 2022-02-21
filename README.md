@@ -1,3 +1,6 @@
+The code is a bit different than the requirements because the deck of cards API interaction has changed. I improved the starter code so it calls from the same deck every time, but doing so has led to me not being able to use the same custom hook for both playing cards and pokedex
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
